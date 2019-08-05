@@ -17,7 +17,7 @@ The files are [zstd]() compressed plain text, with one sentence per line encoded
 Extracting
 ----------
 
-You need a working zstd binary to be able to decompress the corpus. For Linux, installation can be done by:
+You need a working zstd binary to be able to decompress the corpus. For (Debian) Linux, installation can be done by:
 
     sudo apt install zstd
 
@@ -73,6 +73,13 @@ enough patches, these will be applied to the corpus and a new snapshot will be r
 Additionally, as the files are distributed through Google Drive it may be rather inconvenient to
 automate access to the files with a script (e.g. cURL or wget) - if you have space for mirroring
 the files, please contact the maintainers.
+
+Citations
+---------
+
+If you plan to use this work in a publication, please contact the maintainers.
+
+(This hasn't been sorted out yet.)
 
 License
 -------
