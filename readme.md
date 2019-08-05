@@ -11,8 +11,8 @@ Format
 
 The files are [zstd]() compressed plain text, with one sentence per line encoded in UTF-8.
 
- - [kowiki.txt](https://drive.google.com/uc?id=1dR4CsClnw2S2QQidWGO5AKGr-OLT4dS-)
- - [namuwiki.txt](https://drive.google.com/uc?id=1rmBYaWk1Zm5ImEZU634iUu2HedIbhAVM)
+ - [kowiki.txt](https://drive.google.com/uc?id=1dR4CsClnw2S2QQidWGO5AKGr-OLT4dS-): 4,031,915 sentences
+ - [namuwiki.txt](https://drive.google.com/uc?id=1rmBYaWk1Zm5ImEZU634iUu2HedIbhAVM): 27,395,743 sentences
 
 Extracting
 ----------
