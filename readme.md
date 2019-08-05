@@ -1,6 +1,5 @@
 kosentences
 ===========
-The original text is from a snapshot of Namuwiki as of March 12, 2019, and the text has
 
 koSentences is a large-scale web corpus of Korean text. It can be used for any task which
 requires a large amount of unsupervised and (relatively) well-formed text, such as language
