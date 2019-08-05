@@ -36,7 +36,7 @@ kowiki.txt
 This corpus is a preprocessed text dump of [Korean Wikipedia](https://ko.wikipedia.org/) articles.
 
 The original text is from a snapshot of Wikipedia as of June 1, 2019.
-The text has been stripped of Wiki markup, encoded in UTF-8.
+The text has been stripped of Wiki markup, and is encoded in UTF-8.
 
 Short sentences and headlines have been scrubbed out.
 
@@ -46,7 +46,7 @@ namuwiki.txt
 This corpus is a preprocessed text dump of [Namuwiki](https://namu.wiki/) articles.
 
 The original text is from a snapshot of Namuwiki as of March 12, 2019.
-The text has been stripped of Wiki markup, encoded in UTF-8.
+The text has been stripped of Wiki markup, and is encoded in UTF-8.
 
 Short sentences, headlines, and sentences which were inlined in parentheses
 (for example, like this) have been scrubbed out.
