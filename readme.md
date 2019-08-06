@@ -13,6 +13,17 @@ The files are [zstd](https://github.com/facebook/zstd) compressed plain text, wi
  - [kowiki.txt.zst](https://drive.google.com/uc?id=1dR4CsClnw2S2QQidWGO5AKGr-OLT4dS-): 4,031,915 sentences
  - [namuwiki.txt.zst](https://drive.google.com/uc?id=1rmBYaWk1Zm5ImEZU634iUu2HedIbhAVM): 27,395,743 sentences
 
+Downloading
+-----------
+
+You can either download the zstd compressed files directly from the links above, or use the download script.
+
+    python download.py
+
+The requirements can be installed with:
+
+    pip install -r requirements.txt
+
 Extracting
 ----------
 
