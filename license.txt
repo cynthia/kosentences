@@ -25,7 +25,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 kowiki.txt
 ==========
 
-kowiki.txt is distribued under the GNU Free Documentation License.
+kowiki.txt is distributed under the GNU Free Documentation License.
 Details here: https://en.wikipedia.org/wiki/Wikipedia:Copyrights
 
 As per the license, it is possible to use this corpus (kowiki.txt) for commercial purposes.
